@@ -6,6 +6,6 @@ A training app for my own goal of becoming a bodybuilder for asthetic purposes. 
 * This app is currently in developement and may contain bugs and reports of them are appreciated.
 * Daily/weekly uppdates will happen and if not I will probably be occupied with other projects.<br/>
 
-<br/> Concept art may deviate from real project:
-![Concept:](https://github.com/ElvisNilssonDev/TrainingTrackerApi/blob/0c01ace42df041f2906d453f7df250d2b3630f0c/Images/image_2026-02-26_154051831.png)<br/>
+<br/> Current progress in the BodyCore frontend:
+![Concept:](https://github.com/ElvisNilssonDev/TrainingTrackerApi/blob/3455b83d480574440885e372bc4d402e31fa5334/Images/image_2026-03-18_173546277.png)<br/>
 
