@@ -1,7 +1,11 @@
 # BodyCore
-A training app for my own goal of becoming a bodybuilder for asthetic purposes. All apps for training is pay to use so I will create my own!<br/>
+* A training app for my own goal of becoming a bodybuilder for asthetic purposes. All apps for training is pay to use so I will create my own!<br/>
 * The app will contain a way for Nutrition entries to be added for steady calorie count.
 * The app will give you the resources to logg your weeks, days and specific lifts.
+
+# Future updates
+* AI based statistics and knowledge when you will plateau.
+* Normal shield based statistics on certain body parts to see where you genuinly lack strength. 
 
 # Installation requirements
 Install these first:<br/>
