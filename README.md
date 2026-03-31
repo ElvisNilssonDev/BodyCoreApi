@@ -4,7 +4,7 @@
 * The app will give you the resources to logg your weeks, days and specific lifts.
 
 # Future updates
-* AI based statistics and knowledge when you will plateau.
+* AI based statistics and knowledge when you will plateau or need a push.
 * Normal shield based statistics on certain body parts to see where you genuinly lack strength. 
 
 # Installation requirements
