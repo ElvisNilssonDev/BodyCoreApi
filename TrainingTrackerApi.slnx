@@ -1,3 +1,8 @@
 <Solution>
-  <Project Path="TrainingTrackerApi/TrainingTrackerApi.csproj" />
+  <Folder Name="/src/">
+    <Project Path="src/TrainingTracker.Domain/TrainingTracker.Domain.csproj" />
+    <Project Path="src/TrainingTracker.Application/TrainingTracker.Application.csproj" />
+    <Project Path="src/TrainingTracker.Infrastructure/TrainingTracker.Infrastructure.csproj" />
+    <Project Path="src/TrainingTracker.Api/TrainingTracker.Api.csproj" />
+  </Folder>
 </Solution>
