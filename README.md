@@ -8,7 +8,7 @@
 * Normal shield based statistics on certain body parts to see where you genuinly lack strength. 
 
 # Installation requirements
-Install these first:<br/>
+Install these components first:<br/>
 <br/>
 Visual Studio 2022 or newer
 During install, include:
